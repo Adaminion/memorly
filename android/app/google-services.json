@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60132104440",
+    "project_id": "memorly-2547a",
+    "storage_bucket": "memorly-2547a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60132104440:android:102a37813ae982892cc30d",
+        "android_client_info": {
+          "package_name": "com.adaminion.memorly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGeBukCCxB73XL1OM1VJr1qC2q3Ssn4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
